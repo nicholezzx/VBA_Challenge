@@ -4,7 +4,7 @@ Sub StockChallenge()
     Dim ticker As String
     Dim year_open As Double
     Dim year_close As Double
-    Dim vol As Double
+    Dim vol As Long
     Dim yearly_change As Double
     Dim percent_change As Double
     Dim summary As Integer
